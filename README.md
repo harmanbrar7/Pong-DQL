@@ -25,6 +25,8 @@ TensorBoardX Run:
 'tensorboard --logdir runs'
 
 
+demo.mp4 shows how the model learns to easily beat the game 
+
 NOTE 1: Please note which versions of Keras, TensorFlow, PyTorch and Python you are using. 
 TensorFlow 2.0 and above contains Keras, so run code accordingly. Not recommended for notebook environments, use GPU.
 
