@@ -1,5 +1,3 @@
-# Forked from https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On
-
 import cv2
 import gym
 import gym.spaces
