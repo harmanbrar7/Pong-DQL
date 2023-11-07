@@ -1,18 +1,13 @@
-# Forked from https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On
-
-from lib import wrappers
-from lib import dqn_model
-from lib.utils import mkdir
-
+import wrappers
+import dqn_model
+from utils import mkdir
 import argparse
 import time
 import numpy as np
 import collections
-
 import torch
 import torch.nn as nn
 import torch.optim as optim
-
 from tensorboardX import SummaryWriter
 
 
