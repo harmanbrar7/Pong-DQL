@@ -11,6 +11,19 @@ OpenCV Python - pip3 install opencv-python
 
 TensorboardX - pip3 install tensorboardX
 
+4 key files:
+dqn_basic - main program
+wrappers - gym enviro wrappres
+utils - plotting
+dqn_model - pytorch framework
+
+To Run: 
+dqn_basic.py 
+*if using cuda* - then 'dqn_basic.py --cuda'
+
+TensorBoardX Run:
+'tensorboard --logdir runs'
+
 
 NOTE 1: Please note which versions of Keras, TensorFlow, PyTorch and Python you are using. 
 TensorFlow 2.0 and above contains Keras, so run code accordingly. Not recommended for notebook environments, use GPU.
