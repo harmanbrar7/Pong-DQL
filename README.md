@@ -1,5 +1,8 @@
 # Pong-DQL
-DQL Model that learns to beat Pong using PyTorch, Tensorflow, Keras
+DQL Model that learns to beat Atari Pong using PyTorch, Tensorflow, Keras
+
+![ataripong](https://github.com/harmanbrar7/Pong-Deep-Q-Learning/assets/89001739/de8696bc-3070-4c71-9c67-059c74aa8b98)
+
 
 Uses OpenAI's Gym environment. https://github.com/openai/gym
 
