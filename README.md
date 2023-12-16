@@ -6,13 +6,28 @@ DQL Model that learns to beat Atari Pong using PyTorch, Tensorflow, Keras
 
 Uses OpenAI's Gym environment. https://github.com/openai/gym
 
-PyTorch - pip3 install torch torchvision 
 
-OpenAI Gym - pip3 install gym atari-py
+```bash
+#PyTorch
+pip3 install torch torchvision
+```
+```bash
+#OpenAI Gym
+pip3 install gym atari-py
+```
+```bash
+#OpenCV Python
+pip3 install opencv-python
+```
+```bash
+#PyTorch
+pip3 install torch torchvision
+```
+```bash
+#TensorboardX
+pip3 install tensorboardX
+``` 
 
-OpenCV Python - pip3 install opencv-python
-
-TensorboardX - pip3 install tensorboardX
 
 4 key files:
 dqn_basic - main program
