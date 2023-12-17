@@ -29,7 +29,7 @@ pip3 install tensorboardX
 ``` 
 
 
-4 key files:
+##4 key files:
 dqn_basic - main program
 wrappers - gym enviro wrappres
 utils - plotting
